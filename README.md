@@ -4,7 +4,7 @@ This repository contains my work for the FlyRank Frontend AI Engineering Interns
 
 ## Overview
 
-This repository will be used throughout the internship to build projects, complete assignments, and practice AI-assisted software development.
+This repository tracks my work for the FlyRank Frontend AI Engineering Internship, including capstone projects, weekly assignments, and hands-on practice with AI-assisted development workflows.
 
 ## Tech Stack
 
