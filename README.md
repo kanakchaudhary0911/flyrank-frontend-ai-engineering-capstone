@@ -28,3 +28,7 @@ This repository will be used throughout the internship to build projects, comple
 ## Author
 
 Kanak Chaudhary
+
+## Status
+
+🚀 Currently under active development as part of the FlyRank Frontend AI Engineering Internship.
