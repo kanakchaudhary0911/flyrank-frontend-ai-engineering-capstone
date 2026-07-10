@@ -1,34 +1,48 @@
-# FlyRank Frontend AI Engineering Capstone
+# FlyRank Frontend AI Engineering Internship
 
-This repository contains my work for the FlyRank Frontend AI Engineering Internship.
+This repository contains my work, assignments, and progress throughout the FlyRank Frontend AI Engineering Internship.
 
-## Overview
+## Repository Structure
 
-This repository tracks my work for the FlyRank Frontend AI Engineering Internship, including capstone projects, weekly assignments, and hands-on practice with AI-assisted development workflows.
+```
+Week-01/
+│
+├── FE-01_AI-Environment-and-Toolchain/
+│   ├── .gitignore
+│   ├── CLAUDE.md
+│   ├── LICENSE
+│   └── Claude_Code_Environment.png
+│
+└── FL-01_AI-Workflow-Audit-and-Tool-Setup/
+    ├── AI_Workflow_Audit.pdf
+    ├── Anthropic_Academy_Enrollment.png
+    └── Claude_Project_Configuration.png
+```
 
-## Tech Stack
+## Completed Assignments
 
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Node.js
+### Week 1
+
+- ✅ FE-01 – Environment and AI Toolchain
+- ✅ FL-01 – AI Workflow Audit and Tool Setup
+
+## AI Tools Used
+
+- Claude
+- ChatGPT
+- Anthropic Academy
 - Git
 - GitHub
-- Cursor AI
-
-## Goals
-
-- Build modern frontend applications
-- Learn AI-assisted development
-- Follow Git best practices
-- Use Conventional Commits
-- Maintain clean project documentation
-
-## Author
-
-Kanak Chaudhary
+- VS Code
 
 ## Status
 
-🚀 Currently under active development as part of the FlyRank Frontend AI Engineering Internship.
+Week 1 completed.
+More assignments will be added as the internship progresses.
+
+---
+
+**Author**
+
+Kanak Chaudhary
+BCA Student | Frontend AI Engineering Intern
