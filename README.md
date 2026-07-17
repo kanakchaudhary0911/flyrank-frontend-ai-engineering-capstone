@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FlyRank Frontend AI Engineering Capstone
 
 This repository contains my assignments, project setup, and learning progress completed as part of the **FlyRank Frontend AI Engineering** track.
@@ -95,10 +96,34 @@ Week-1
     ├── LICENSE
     ├── README.md
     └── Claude_Code_Environment.png
+=======
+# FlyRank Frontend AI Engineering
+
+This repository contains my weekly assignments, projects, and learning progress completed as part of the **FlyRank Frontend AI Engineering** program.
+
+The repository documents my journey in AI-assisted frontend development, prompt engineering, Git workflows, modern software engineering practices, and frontend project implementation.
+
+---
+
+## Repository Structure
+
+```text
+FLYRANK-FRONTEND-AI-ENGINEERING/
+│
+├── Week-1/
+│   └── FE-01_AI-Environment-and-Toolchain/
+│
+├── Week-2/
+│   ├── README.md
+│   └── FE-03_AI-Assisted-Workflow-Drill/
+│
+└── README.md
+>>>>>>> 34ea4a1 (docs(week2): add Week 2 overview)
 ```
 
 ---
 
+<<<<<<< HEAD
 ## Completed Assignments
 
 ### Week 1
@@ -114,10 +139,41 @@ Week-1
 - Repository Organization
 - Documentation
 - Conventional Commits
+=======
+# Weekly Progress
+
+| Week | Assignment | Status |
+|------|------------|--------|
+| Week 1 | FE-01 – AI Environment & Toolchain | ✅ Completed |
+| Week 2 | FE-03 – AI-Assisted Workflow Drill | ✅ Completed |
+
+---
+
+# Skills Learned
+
+- AI Prompt Engineering
+- Claude Code Workflow
+- Git & GitHub
+- AI Verification Loop
+- AI Planning Workflow
+- Documentation
+- Markdown
+- Frontend Engineering Fundamentals
+
+---
+
+# Technologies
+
+- Git
+- GitHub
+- Claude Code
+- Markdown
+>>>>>>> 34ea4a1 (docs(week2): add Week 2 overview)
 - AI-assisted Development
 
 ---
 
+<<<<<<< HEAD
 ## Technologies & Tools
 
 - Node.js
@@ -147,6 +203,15 @@ Through this assignment, I learned how to:
 | Week 1 | FE-01 – AI Environment and Toolchain | ✅ Completed |
 
 This repository will continue to grow as additional assignments and capstone work are completed.
+=======
+# Repository Goals
+
+- Learn professional AI-assisted software development.
+- Build reusable AI workflows.
+- Improve prompt engineering skills.
+- Follow modern frontend engineering practices.
+- Maintain clean and well-documented repositories.
+>>>>>>> 34ea4a1 (docs(week2): add Week 2 overview)
 
 ---
 
@@ -154,6 +219,10 @@ This repository will continue to grow as additional assignments and capstone wor
 
 **Kanak Chaudhary**
 
+<<<<<<< HEAD
 BCA Student | Backend Developer | AI & Web Development Enthusiast
 
 GitHub: https://github.com/kanakchaudhary0911
+=======
+BCA Student | Frontend & AI Engineering Enthusiast
+>>>>>>> 34ea4a1 (docs(week2): add Week 2 overview)
